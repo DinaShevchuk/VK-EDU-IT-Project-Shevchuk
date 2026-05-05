@@ -305,7 +305,10 @@ BDD — Критический путь MVP
 
 &#x20; Магазин НЕ получает штраф (если причина уважительная)
 
-<img width="313" height="559" alt="image" src="https://github.com/user-attachments/assets/071e540f-f452-4ac4-9b06-cc86ddd50c02" />
+<img width="313" height="559" alt="image" src="https://github.com/user-attachments/assets/071e540f-f452-4ac4-9b06-cc86ddd50c02" /> 
+<img width="314" height="553" alt="image" src="https://github.com/user-attachments/assets/ab1edaad-e0b2-4bde-b104-f9053a149eaa" />
+<img width="319" height="556" alt="image" src="https://github.com/user-attachments/assets/43359378-f7f6-49c6-9219-0242b9067efe" />
+<img width="317" height="558" alt="image" src="https://github.com/user-attachments/assets/14f166a8-866d-4323-a7c1-d50f2a66462e" />
 
 
 
