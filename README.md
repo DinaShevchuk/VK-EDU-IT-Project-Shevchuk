@@ -534,8 +534,10 @@ json
 Схема C4: 
 
 Cхема 1: Контекст
+<img width="380" height="399" alt="image" src="https://github.com/user-attachments/assets/f1f1303e-4919-4ea4-af5e-9b3b235eb658" />
 
 Схема 2: Контейнеры
+<img width="689" height="427" alt="image" src="https://github.com/user-attachments/assets/3b375222-bb0d-4737-9171-0a521f37d037" />
 
 
 
